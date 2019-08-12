@@ -1,2 +1,2 @@
-hello
+git is goodo
 github is awesome
